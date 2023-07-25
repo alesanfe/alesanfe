@@ -1,7 +1,7 @@
 ##### EN | [SP](SPANISH.md)
 # My name is Alexander 👋!!!
 
-![Hello there](https://media0.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=82a1493b4f97leg0hcghyljs1vnnyd8a9z74nm0sg1c3k2vq&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Hello there](hello_there.gif)
 
 ## 🚀 Welcome to My GitHub Space 🌌
 
