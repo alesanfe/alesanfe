@@ -5,6 +5,8 @@
 
 ## 🚀 Welcome to My GitHub Space 🌌
 
+[![Alesanfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=alesanfe)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🔭 About Me:
 I am a passionate and curious software developer based in Your Location 🌍. With a deep love for exploring the boundless universe of code 🚀, I am an AI enthusiast 🧠, constantly eager to learn and grow 🌱. My journey has led me to specialize in a wide array of technologies, including backend frameworks like Spring, Jersey, and RESTeasy, as well as AI and data tools such as NumPy and SageMath. I'm also well-versed in Java, Kotlin, and game development using Unity 🎮.
 
