@@ -29,12 +29,11 @@ class MyGitHubProfile:
         self.location = "Seville 🌍"
         self.bio = "🚀 Exploring the Boundless Universe of Code 🌌 | 🌱 Lifelong Learner 🌱"
         self.skills = {
-            "Backend": ["Spring", "Jersey", "RESTeasy", "Django"]
-            "Graphic Interface": ["React Native", "tkinter", "customtkinter"]
+            "Backend": ["Spring", "Jersey", "RESTeasy", "Django"],
+            "Graphic Interface": ["React Native", "tkinter", "customtkinter"],
             "Data": ["NumPy", "SageMath"],
-            "O(X)M": ["Hybernate", "Sequalizer", "Neomodel"]
-            "Software Development": ["Java", "Kotlin", "Python"]
-            "Game Development": ["Unity"]
+            "O(X)M": ["Hybernate", "Sequalizer", "Neomodel"],
+            "Software Development": ["Java", "Kotlin", "Python"],
             "Databases": ["MariaDB", "Mysql"]
         }
         self.interests = ["Space Exploration 🚀", "Open Source 💻", "Innovation 💡"]
