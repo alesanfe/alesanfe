@@ -8,15 +8,15 @@
 [![Alesanfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=alesanfe)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔭 About Me:
-I am a passionate and curious software developer based in Your Location 🌍. With a deep love for exploring the boundless universe of code 🚀, I am an AI enthusiast 🧠, constantly eager to learn and grow 🌱. My journey has led me to specialize in a wide array of technologies, including backend frameworks like Spring, Jersey, and RESTeasy, as well as AI and data tools such as NumPy and SageMath. I'm also well-versed in Java, Kotlin, and game development using Unity 🎮.
+I am a passionate and curious software developer based in Your Location 🌍. With a deep love for exploring the boundless universe of code 🚀, constantly eager to learn and grow 🌱. My journey has led me to specialize in a wide array of technologies, including backend frameworks like Spring, Jersey, and RESTeasy. In the future, I would like to get into the world of video games.
 
 ### 🔧 Skills:
-- **Backend**: Spring, Jersey, RESTeasy, Express.js
-- **Frontend**: React Native, Vue
-- **ORM**: Hybernate, Sequalizer
-- **AI & Data**: NumPy, SageMath, Python
-- **Software Development**: Java, Kotlin
-- **Game Development**: Unity
+- **Backend**: Spring, Jersey, RESTeasy, Express.js, Django
+- **Graphic Interface**: React Native, Django, tkinter, customtkinter
+- **ORM**: Hybernate, Sequalizer, Neomodel
+- **Data**: NumPy, SageMath
+- **Software Development**: Java, Kotlin, Python
+- **Databases**: MariaDB, Mysql
 
 ## And if you want some code...
 
@@ -27,14 +27,17 @@ class MyGitHubProfile:
         self.username = "alesanfe"
         self.name = "ale"
         self.location = "Seville 🌍"
-        self.bio = "🚀 Exploring the Boundless Universe of Code 🌌 | 🧠 AI Enthusiast | 🌱 Lifelong Learner 🌱 | 🎮 Game Developer 🕹️"
-        self.skills = [
-            "Backend: Spring, Jersey, RESTeasy",
-            "AI & Data: NumPy, SageMath, Python",
-            "Software Development: Java, Kotlin",
-            "Game Development: Unity"
-        ]
-        self.interests = ["Space Exploration 🚀", "Artificial Intelligence 🤖", "Open Source 💻", "Innovation 💡"]
+        self.bio = "🚀 Exploring the Boundless Universe of Code 🌌 | 🌱 Lifelong Learner 🌱"
+        self.skills = {
+            "Backend": ["Spring", "Jersey", "RESTeasy", "Django"]
+            "Graphic Interface": ["React Native", "tkinter", "customtkinter"]
+            "Data": ["NumPy", "SageMath"],
+            "O(X)M": ["Hybernate", "Sequalizer", "Neomodel"]
+            "Software Development": ["Java", "Kotlin", "Python"]
+            "Game Development": ["Unity"]
+            "Databases": ["MariaDB", "Mysql"]
+        }
+        self.interests = ["Space Exploration 🚀", "Open Source 💻", "Innovation 💡"]
         self.current_focus = "Constantly seeking new opportunities to apply my skills and contribute to exciting projects!"
 
     def get_contact_links(self):
@@ -67,8 +70,6 @@ Welcome to my GitHub repository! In this section, you will find an overview of t
 3. **Kotlin**: Leveraging Kotlin, I specialize in Android app development, embracing its modern features and expressive syntax to deliver efficient and user-friendly mobile experiences.
 
 4. **Python**: Python is my go-to language for data analysis, AI, and machine learning. With libraries like Pandas, NumPy, and TensorFlow, I extract insights and derive value from complex datasets.
-
-5. **C#**: With a strong background in C#, I have developed desktop applications, games, and utilized the language in Unity for game development projects.
 
 These top languages represent the pillars of my coding journey, and I continue to expand my expertise to keep pace with the dynamic tech landscape.
 
